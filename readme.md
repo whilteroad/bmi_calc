@@ -1,7 +1,9 @@
-To run test run test.py
+1.To run test run test.py
 
-To run bmi calculation bmi_calculator.py provided data.json has data in same directory were bmi_calculator.py has
+2.To run bmi calculation bmi_calculator.py provided data.json has data in same directory were bmi_calculator.py has
 
+
+3.data.json has beenn processed and new file output.json has produced 
 
 
 
