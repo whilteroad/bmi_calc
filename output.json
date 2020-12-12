@@ -1,0 +1,50 @@
+[
+    {
+        "BMICategory": "ModeratelyObese",
+        "HealthRisk": "MediumRisk",
+        "Gender": "Male",
+        "BMI": 32.0,
+        "HeightCm": 171,
+        "WeightKg": 96
+    },
+    {
+        "BMICategory": "ModeratelyObese",
+        "HealthRisk": "MediumRisk",
+        "Gender": "Male",
+        "BMI": 32.0,
+        "HeightCm": 161,
+        "WeightKg": 85
+    },
+    {
+        "BMICategory": "NormalWeight",
+        "HealthRisk": "LowRisk",
+        "Gender": "Male",
+        "BMI": 23.0,
+        "HeightCm": 180,
+        "WeightKg": 77
+    },
+    {
+        "BMICategory": "NormalWeight",
+        "HealthRisk": "LowRisk",
+        "Gender": "Female",
+        "BMI": 22.0,
+        "HeightCm": 166,
+        "WeightKg": 62
+    },
+    {
+        "BMICategory": "ModeratelyObese",
+        "HealthRisk": "MediumRisk",
+        "Gender": "Female",
+        "BMI": 31.0,
+        "HeightCm": 150,
+        "WeightKg": 70
+    },
+    {
+        "BMICategory": "OverWeight",
+        "HealthRisk": "EnhancedRisk",
+        "Gender": "Female",
+        "BMI": 29.0,
+        "HeightCm": 167,
+        "WeightKg": 82
+    }
+]
